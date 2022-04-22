@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\ontap_4\ontap_4\bin\Debug\ontap_4.exe.config
+C:\Users\ADMIN\source\repos\ontap_4\ontap_4\bin\Debug\ontap_4.exe
+C:\Users\ADMIN\source\repos\ontap_4\ontap_4\bin\Debug\ontap_4.pdb
+C:\Users\ADMIN\source\repos\ontap_4\ontap_4\obj\Debug\ontap_4.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ontap_4\ontap_4\obj\Debug\ontap_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\ontap_4\ontap_4\obj\Debug\ontap_4.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ontap_4\ontap_4\obj\Debug\ontap_4.exe
+C:\Users\ADMIN\source\repos\ontap_4\ontap_4\obj\Debug\ontap_4.pdb
